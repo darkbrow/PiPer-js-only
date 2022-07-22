@@ -10,12 +10,12 @@ So, I copied correspoing javascript files from PiPer git repository and made it 
 
 Compressed js file by Google-closure-compiler
 ```
-https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-compressed/scripts/piper.js
+https://gist.githubusercontent.com/darkbrow/abfec4b22576d06a633346f06c3cc2f2/raw/5a11bf400941ed46bf77a9d4f44e4a00cf65c9bd/piper-compressed.js
 ```
 
 Readable one for debugging
 ```
-https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/scripts/piper.js
+https://gist.githubusercontent.com/darkbrow/abfec4b22576d06a633346f06c3cc2f2/raw/6fe278d68a1ad4b43bd53a510f5a8f0343a50305/piper.js
 ```
 
 ## Loading remote js file
@@ -27,7 +27,7 @@ const loadScript = async (url) => {
   new Function(script)();
 }
 
-const piper = "https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-compressed/scripts/piper.js";
+const piper = "https://gist.githubusercontent.com/darkbrow/abfec4b22576d06a633346f06c3cc2f2/raw/5a11bf400941ed46bf77a9d4f44e4a00cf65c9bd/piper-compressed.js";
 
 loadScript(piper);
 ```
