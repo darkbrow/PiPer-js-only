@@ -231,7 +231,7 @@ const resource$$module$resources$naver = {buttonClassName:"control", buttonScale
     background-color: transparent;
     border-style: none;
   `, buttonHoverStyle:`opacity: 1 !important`, buttonParent:function() {
-  var naverVidElements = [document.querySelector(".ControlBox_comp_control_box__zduPu .ControlBox_view_control_group__1DCTL"), document.querySelector(".rmc_control_right"), document.querySelector(".pzp-pc__bottom-buttons-right"),];
+  var naverVidElements = [document.querySelector(".ControlBox_comp_control_box__zduPu .ControlBox_view_control_group__1DCTL"),document.querySelector(".VideoControlBox_view_control_group__Gls_j"), document.querySelector(".rmc_control_right"), document.querySelector(".pzp-pc__bottom-buttons-right"),];
   var naverVidElement = naverVidElements.findIndex(function(el) {
     return el !== null;
   });
