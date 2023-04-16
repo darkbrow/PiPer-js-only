@@ -12,8 +12,8 @@
 // @exclude      *://music.youtube.com/*
 // @exclude      *://*.music.youtube.com/*
 // @compatible   safari
-// @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/scripts/piper.js
-// @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/scripts/piper.js
+// @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/piper.js
+// @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/piper.js
 // @grant        GM.xmlHttpRequest
 // @connect      youtube.com
 // @connect      naver.com
