@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PiPer-js-only
+// @name         PiPer
 // @namespace    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main
 // @homepage     https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main
 // @version      1.0.4
