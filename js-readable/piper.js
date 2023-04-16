@@ -15,8 +15,7 @@
 // @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/piper.js
 // @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/piper.js
 // @grant        GM.xmlHttpRequest
-// @connect      youtube.com
-// @connect      naver.com
+// @connect      githubusercontent.com
 // @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
