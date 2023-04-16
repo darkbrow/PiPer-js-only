@@ -7,8 +7,8 @@
 // @icon         https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/toolbar/icon.png
 // @author       amarcu5
 // @match        *://*.naver.com/*
-// @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/scripts/naver-pip-button.user.js
-// @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/scripts/naver-pip-button.user.js
+// @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/naver-pip-button.user.js
+// @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/naver-pip-button.user.js
 // @grant        GM.xmlHttpRequest
 // @connect      naver.com
 // @grant        GM_addStyle
