@@ -10,7 +10,7 @@
 // @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/naver-pip-button.user.js
 // @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/naver-pip-button.user.js
 // @grant        GM.xmlHttpRequest
-// @connect      naver.com
+// @connect      githubusercontent.com
 // @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
