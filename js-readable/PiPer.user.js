@@ -2,7 +2,7 @@
 // @name         PiPer
 // @namespace    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main
 // @homepage     https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main
-// @version      1.0.4
+// @version      1.0.4.1
 // @encoding     utf-8
 // @description  Add Picture in Picture button on Youtube toolbar. And fix to show subtitle in PIP window. This script is blatantly copied from amarcu5's good safari extension PiPer(https://github.com/amarcu5/PiPer.git). I add file for support Naver Live. All other sites originally included were removed at this script, because most of them quite outdated and no longer work at this time.
 // @icon         https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/toolbar/icon.png
@@ -11,8 +11,8 @@
 // @match        *://*.naver.com/*
 // @exclude      *://music.youtube.com/*
 // @exclude      *://*.music.youtube.com/*
-// @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/piper.js
-// @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/piper.js
+// @downloadURL  https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/PiPer.user.js
+// @updateURL    https://raw.githubusercontent.com/darkbrow/PiPer-js-only/main/js-readable/PiPer.user.js
 // @grant        GM.xmlHttpRequest
 // @connect      githubusercontent.com
 // @grant        GM_addStyle
